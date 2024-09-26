@@ -1,2 +1,4 @@
 # chatapp-common
-Chat App Common
+TALK TIDE - Common package for Chat Application
+
+Supported by Type Script
