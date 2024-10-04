@@ -1,11 +1,11 @@
 {
   "name": "@nn-rego/chatapp-common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Chat App Common",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "http://google.com",
+  "homepage": "https://www.npmjs.com/package/@nn-rego/chatapp-common",
   "repository": {
     "url": "https://github.com/noelrego/chatapp-common"
   },
