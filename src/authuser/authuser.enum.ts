@@ -7,7 +7,8 @@ export enum N_MsgPatternAuthUserService  {
     CREATE_MEMBER = 'createMember',
     GET_MEMBER = 'getMember',
     GET_RECIPIENT_LIST = 'getRecipientList',
-    GET_AVAILABLE_LIST = 'getAvailableList'
+    GET_AVAILABLE_LIST = 'getAvailableList',
+    GET_MEMBER_INFO = 'getMemberInfo'
 }
 
 export enum N_SocketUpdateAction {
